@@ -1,6 +1,6 @@
 {
   "name": "nodejs_cloudant",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "test",
   "main": "server.js",
   "dependencies": {
@@ -15,9 +15,21 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jey Developer",
+  "license": "MIT",
   "engines": {
     "node": "0.10.x"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeydeveloper/nodejs_cloudant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeydeveloper/nodejs_cloudant/issues"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "cloudant"
+  ],
 }
